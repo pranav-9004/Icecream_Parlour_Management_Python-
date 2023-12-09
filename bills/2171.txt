@@ -1,0 +1,16 @@
+		HILLTOP ICECREAM PARLOUR
+
+ Bill Number:2171
+ Cust_Name:Pratahm_Shelar
+ Cust_Phoneno:123678903
+ Date:5/29/23
+=======================================================
+ Flavours		Qty	Cont	Price
+=======================================================Watermelon		2	Cup	140 
+TuttiFutti		5	FP	950
+
+=======================================================
+ Sub Amount:	Rs.1090.00
+ Gov Tax:	Rs.10.50
+ Total Price:	Rs.1100.50
+=======================================================
